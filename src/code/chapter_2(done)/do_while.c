@@ -1,6 +1,7 @@
 /*
 用途：计算n的阶乘，n由用户输入
 重点：scanf的使用，do while的使用
+操作：从标准输入中读取数据
 */
 #include <stdio.h>
 
